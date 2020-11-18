@@ -1,0 +1,1 @@
+/home/andrerferrer/code/andrerferrer/dotfiles/zshrc
